@@ -1,3 +1,3 @@
 <?php
- echo "abc-1234";
+ echo "[]abc-1234";
 ?>
